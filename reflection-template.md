@@ -1,26 +1,26 @@
 # AI Collaboration Reflection
 
-**Student Name:** [Your name here]
-**Date Completed:** [YYYY-MM-DD]
+**Student Name:** William Harvey
+**Date Completed:** 2025-09-13
 
 ## What worked well with AI
 
 **Your most successful AI interaction:**
 
 ``` text
-[Describe one conversation that went really well. What made it effective? What did you learn from AI that was genuinely helpful?]
+The one where I asked for better colors for the background and for the text, it gave me better colors than the original that it had suggested to me in the beginning.
 ```
 
 **How your prompting improved:**
 
 ``` text
-[Compare your first AI conversation to your last one. What did you do differently? What techniques worked best for getting useful responses?]
+I was more direct with my prompts, and it gave me more of what I was asking for in the replies.
 ```
 
 **AI's best contributions:**
 
 ``` text
-[What was AI most helpful for? Creative ideas? Technical guidance? Something else? Give a specific example.]
+It has been a great help with helping me understand what is needing to be done, and giving me great ideas as well with what I can do.
 ```
 
 ## Learning from limitations
@@ -28,45 +28,45 @@
 **One thing AI got wrong or missed:**
 
 ``` text
-[Specific example of incorrect info, bias, or unhelpful complexity]
+It seemed to miss the mark with the kind of coloring that goes together with the background and text of the website. Sure, color is subjective, but with it recommending a near pure white background and dark red text it didn't really fit the theme and felt like it wouldv'e hurt to read.
 ```
 
 **Your workaround strategy:**
 
 ``` text
-[How you dealt with this limitation]
+I asked for a more interesting color, and for the text to be brighter.
 ```
 
 **Advice for other students:**
 
 ``` text
-[One specific tip based on what you learned]
+Be more specific with some of the things you are looking for when asking AI about subjective changed, don't outright state what you think you want, because you could miss out on some great suggestions.
 ```
 
 ## Ready for implementation?
 
-**Are you prepared to start coding your poetry website?** [Yes/No]
+**Are you prepared to start coding your poetry website?** Yes
 
 **Why or why not?**
 
 ``` text
-[Explain your confidence level. What aspects of the plan feel solid? What might still need work?]
+I'm somewhat confident, I still need to get back into the grove of writting html and css again, since it's been a while since I last did it, but I feel like I can get it done.
 ```
 
 **How will you use AI in the main Poetry project?**
 
 ``` text
-[Based on this experience, how will you approach AI collaboration when you start building your actual website? What will you do the same or differently?]
+I'll probably do the same thing, it worked out well for me this time, but I'll be more specific with what I want.
 ```
 
 **Most important lesson learned:**
 
 ``` text
-[What's the single most valuable thing you learned about working with AI that you'll carry forward to future projects?]
+That AI is a very powerful and can give me suggestions that just sound right to me, I'm not a very picky person when it comes to the whole of the project, but I had somewhat of an idea of what I wanted to make, and chatgpt got me to the finish line.
 ```
 
 **Public domain verification:**
 
 ``` text
-[Confirm your final poem choice is actually public domain. If you discovered it wasn't during your research, explain how you found a replacement.]
+The poem was written in 1854, way before the date of when certain works need to be looked into more if they are public domain or not.
 ```
